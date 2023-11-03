@@ -3,10 +3,10 @@ import 'package:google_fonts/google_fonts.dart';
 
 void main()
 {
-  runApp(MaterialApp(home: HomeS(),));
+  runApp(MaterialApp(home: MusicPlayer(),));
 }
 
-class HomeS extends StatelessWidget{
+class MusicPlayer extends StatelessWidget{
   var images =
   [
 
