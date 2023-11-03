@@ -9,7 +9,7 @@ class stgridui extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-        appBar: AppBar(title: Text("Place"),),
+        appBar: AppBar(title: Text("Places"),),
         body:SingleChildScrollView(
           child: StaggeredGrid.count(crossAxisCount: 4,
             crossAxisSpacing: 10,
