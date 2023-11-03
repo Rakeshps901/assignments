@@ -46,8 +46,11 @@ dev_dependencies:
   lottie: ^2.6.0
   flutter_rating_bar: ^4.0.1
   intl_phone_field:
+  hive_flutter:
   salomon_bottom_bar:
   carousel_slider:
+  get:
+  hive:
 
 
   # The "flutter_lints" package below contains a set of recommended lints to
