@@ -7,7 +7,7 @@ class GofastHomeScreen extends StatelessWidget {
   const GofastHomeScreen({super.key});
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext   context) {
     return Scaffold(
       appBar: AppBar(
         elevation: 0,
